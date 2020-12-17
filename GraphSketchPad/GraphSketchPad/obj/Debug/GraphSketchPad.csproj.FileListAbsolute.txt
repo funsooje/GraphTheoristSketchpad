@@ -1,0 +1,22 @@
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\bin\Debug\GraphSketchPad.exe.config
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\bin\Debug\GraphSketchPad.exe
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\bin\Debug\GraphSketchPad.pdb
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.csprojAssemblyReference.cache
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.Properties.Resources.resources
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.SketchPad.resources
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.csproj.GenerateResource.cache
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.exe
+Z:\Documents\ProgrammingProjects\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.pdb
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\bin\Debug\GraphSketchPad.exe.config
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\bin\Debug\GraphSketchPad.exe
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\bin\Debug\GraphSketchPad.pdb
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.csprojAssemblyReference.cache
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.Properties.Resources.resources
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.csproj.GenerateResource.cache
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.exe
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.pdb
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.frmSketchPad.resources
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\bin\Debug\MathNet.Numerics.dll
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\bin\Debug\MathNet.Numerics.xml
+C:\Users\Administrator\Google Drive\Misc\Prog\GraphSketchPad\GraphSketchPad\obj\Debug\GraphSketchPad.csproj.CopyComplete
